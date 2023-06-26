@@ -113,24 +113,7 @@ nav li a:hover{
     padding-bottom: 20px;
     z-index: 1000;
     color: white;
-    animation-name: animacion1;
-    animation-duration: 1s;
-    animation-delay: .3s;
     font-size: 13pt;
-}
-@keyframes animacion1{
-    0%{
-        opacity: 0;
-    }
-    25%{
-        opacity: .25;
-    }
-    50%{
-        opacity: .50;
-    }
-    100%{
-        opacity: 1;
-    }
 }
 
 
